@@ -616,108 +616,148 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",TV 4
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TV1
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TV2
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TV3
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TV 6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",NTV7
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",8TV
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TV9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",AL Hijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-logo="rtb4.png" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",RTB SUKMAINDERA
+https://rtb-channel.glue.live/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",Tv Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2164000.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",NTV7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",Selangor
+http://seb.sason.top/sc/SelangorTV.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO BOO
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO CITRA
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",Drama sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",Hello
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",ASTRO BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",ASTRO CITRA
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",ABO Tayangan Hebat
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ABO Tayangan Hebat
 http://mantul.biz.id:8888/gibran/gibran/10650
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",ASTRO CERIA
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO CERIA
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",ASTRO RIA
-http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO RIA
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO PRIMA
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO OASIS
+http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",D Sangat
+http://185.180.221.194:8278/streams/d/Dsangat/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",ASTRO PRIMA
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO AWANI
+http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",ASTRO OASIS
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO BERNAMA
+http://185.180.221.194:8278/streams/d/Bernama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",ASTRO AWANI
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO QUAN JIA
+http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",ASTRO BERNAMA
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO SHUANG XING
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://webo.asia/logos/ptvhome.jpg"group-title="ASTRO MALAYSIA 1",Fox hd
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://webo.asia/logos/ptvhome.jpg"group-title="ASTRO MALAYSIA 1",Fox Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://webo.asia/logos/ptvhome.jpg"group-title="ASTRO MALAYSIA 1",Fox Action Movie
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://webo.asia/logos/ptvhome.jpg"group-title="ASTRO MALAYSIA 1",Foxlife
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://webo.asia/logos/ptvhome.jpg"group-title="ASTRO MALAYSIA 1",FoxMovie
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",ASTRO QUAN JIA
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",ASTRO SHUANG XING
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",OH!K
+http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",OH!K
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TVB
+http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",TVB
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",AL HIJRIAH
+http://185.180.221.194:8278/streams/d/Alhijrah/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",AL HIJRIAH
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",NAURA
+http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",NAURA
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",HELLO
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",HELLO
-http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",SONE
+http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",SONE
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TVN
+http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",TVN
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",NAT GEO WILD
+http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",NAT GEO WILD
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1", CCM
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA", CCM
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",CELESTIAL MOVIE
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",CELESTIAL MOVIE
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",KIX
+http://185.180.221.194:8278/streams/d/KiX/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",KIX
-http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",HBO
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",HBO Hits
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",GO SHOP
+http://185.180.221.194:8278/streams/d/Goshop/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",HBO Hits
-http://50.7.161.82:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",GO SHOP
-http://50.7.161.82:8278/streams/d/Goshop/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",GO SHOP 2
+http://185.180.221.194:8278/streams/d/Goshop2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",GO SHOP 2
-http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",RTM SPORTS
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA",RTM SPORTS
-http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASTRO ARENA
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASSP1
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASSP2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASSP3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASSP4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="CINEMA",HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
@@ -992,6 +1032,21 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",ZQ Sport
 http://iptv.zqstream.com:80/zqsport-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ARENA HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",MY: ASTRO ARENA HD
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157485
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",MY: ASTRO ASSP HD
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247415
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP2 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",MY: ASTRO ASSP2 HD
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247417
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP3 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",MY: ASTRO ASSP3 HD
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247418
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP4 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",MY: ASTRO ASSP4 HD
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",ASSP 1
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",ASSP 2
@@ -1036,16 +1091,6 @@ http://linux-app.tv:8080/Iptvtree/He73ghh/70287
 http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/8
 http://linux-app.tv:8080/Iptvtree/He73ghh/35621
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein Sport 1 AR
-http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein Sport 2 AR
-http://144.217.253.140/beinsport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein Sport 3 AR
-http://144.217.253.140/beinsport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein Sport 4 AR
-http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",BeIN Sports Xtra
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Fox sports 1
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Fox sports 2
@@ -1064,33 +1109,6 @@ https://mediasv.online/live/nflnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Australia Sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",BT Sport 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",BT Sport 2
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",BT Sport 3
-http://212.8.253.172:2052/BT-3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=437218
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ARENA HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",MY: ASTRO ARENA HD
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157485
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",MY: ASTRO ASSP HD
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247415
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP2 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",MY: ASTRO ASSP2 HD
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247417
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP3 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",MY: ASTRO ASSP3 HD
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247418
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP4 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",MY: ASTRO ASSP4 HD
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS WAK",StarSport Select 1
-http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1760519830.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS WAK",StarSport Select 2
-http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS WAK",SPORTS TV [HD]
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS WAK",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS WAK",Fox Sports 2 Asia
@@ -1349,20 +1367,6 @@ http://92.43.140.200/s89/04.m3u8
 http://92.43.140.200/s55/04.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL", SWISS SPORTS
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="FOOTBALL",TRUE TENIS HD
-https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="FOOTBALL",TRUE GOLF HD
-https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL",TENIS LAPANGAN  1
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL",TENIS LAPANGAN  2
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL",ATGV 1 SPORT
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-
-
 
 
 EXTINF:-1  tvg-id="3 HD" group-title="THAI.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
