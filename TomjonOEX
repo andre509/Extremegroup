@@ -1707,7 +1707,529 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 3",ASSP4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MY | TV1" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TV1
+http://pprotv.com:80/yaqoob/yaqoob/39664
+#EXTINF:-1 tvg-id="" tvg-name="MY | TV2" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TV2
+http://pprotv.com:80/yaqoob/yaqoob/39665
+#EXTINF:-1 tvg-id="" tvg-name="MY | TV3" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TV3
+http://pprotv.com:80/yaqoob/yaqoob/28112
+#EXTINF:-1 tvg-id="" tvg-name="MY | TV9" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TV9
+http://pprotv.com:80/yaqoob/yaqoob/78701
+#EXTINF:-1 tvg-id="" tvg-name="MY | RIA HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | RIA HD
+http://pprotv.com:80/yaqoob/yaqoob/39654
+#EXTINF:-1 tvg-id="" tvg-name="MY | PRIMA HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | PRIMA HD
+http://pprotv.com:80/yaqoob/yaqoob/39651
+#EXTINF:-1 tvg-id="" tvg-name="MY | AURA HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | AURA HD
+http://pprotv.com:80/yaqoob/yaqoob/39589
+#EXTINF:-1 tvg-id="" tvg-name="MY | AWANI" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | AWANI
+http://pprotv.com:80/yaqoob/yaqoob/39590
+#EXTINF:-1 tvg-id="" tvg-name="MY | BERNAMA" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | BERNAMA
+http://pprotv.com:80/yaqoob/yaqoob/39593
+#EXTINF:-1 tvg-id="" tvg-name="MY | CERIA HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CERIA HD
+http://pprotv.com:80/yaqoob/yaqoob/39599
+#EXTINF:-1 tvg-id="" tvg-name="MY | COLORS HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | COLORS HD
+http://pprotv.com:80/yaqoob/yaqoob/39606
+#EXTINF:-1 tvg-id="" tvg-name="MY | OASIS HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | OASIS HD
+http://pprotv.com:80/yaqoob/yaqoob/39646
+#EXTINF:-1 tvg-id="" tvg-name="MY | RANIA HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | RANIA HD
+http://pprotv.com:80/yaqoob/yaqoob/39653
+#EXTINF:-1 tvg-id="" tvg-name="MY | NAURA" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | NAURA
+http://pprotv.com:80/yaqoob/yaqoob/39642
+#EXTINF:-1 tvg-id="" tvg-name="MY | WARNA HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | WARNA HD
+http://pprotv.com:80/yaqoob/yaqoob/39676
+#EXTINF:-1 tvg-id="" tvg-name="MY | WARNER TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | WARNER TV
+http://pprotv.com:80/yaqoob/yaqoob/39677
+#EXTINF:-1 tvg-id="" tvg-name="MY | QUAN JIA HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | QUAN JIA HD
+http://pprotv.com:80/yaqoob/yaqoob/39652
+#EXTINF:-1 tvg-id="" tvg-name="MY | TV ALHIJRAH" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TV ALHIJRAH
+http://pprotv.com:80/yaqoob/yaqoob/39663
+#EXTINF:-1 tvg-id="" tvg-name="MY | ADITHYA" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ADITHYA
+http://pprotv.com:80/yaqoob/yaqoob/39566
+#EXTINF:-1 tvg-id="" tvg-name="MY | AOD 352" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | AOD 352
+http://pprotv.com:80/yaqoob/yaqoob/39573
+#EXTINF:-1 tvg-id="" tvg-name="MY | AOD 353" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | AOD 353
+http://pprotv.com:80/yaqoob/yaqoob/39574
+#EXTINF:-1 tvg-id="" tvg-name="MY | AOD 354" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | AOD 354
+http://pprotv.com:80/yaqoob/yaqoob/39575
+#EXTINF:-1 tvg-id="" tvg-name="MY | AOD 355" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | AOD 355
+http://pprotv.com:80/yaqoob/yaqoob/39576
+#EXTINF:-1 tvg-id="" tvg-name="MY | AOD HD 311" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | AOD HD 311
+http://pprotv.com:80/yaqoob/yaqoob/39577
+#EXTINF:-1 tvg-id="" tvg-name="MY | ARENA HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ARENA HD
+http://pprotv.com:80/yaqoob/yaqoob/39578
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ASSP HD
+http://pprotv.com:80/yaqoob/yaqoob/39579
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ASSP HD
+http://pprotv.com:80/yaqoob/yaqoob/39580
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP PLUS" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ASSP PLUS
+http://pprotv.com:80/yaqoob/yaqoob/39581
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP2 HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ASSP2 HD
+http://pprotv.com:80/yaqoob/yaqoob/39582
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP2 HD 50 FPS" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ASSP2 HD 50 FPS
+http://pprotv.com:80/yaqoob/yaqoob/39583
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP3 HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ASSP3 HD
+http://pprotv.com:80/yaqoob/yaqoob/39584
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP3 HD 50FPS" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ASSP3 HD 50FPS
+http://pprotv.com:80/yaqoob/yaqoob/39585
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP4 HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ASSP4 HD
+http://pprotv.com:80/yaqoob/yaqoob/39586
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP4 HD 50FPS" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ASSP4 HD 50FPS
+http://pprotv.com:80/yaqoob/yaqoob/39587
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASTRO CRICKET" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ASTRO CRICKET
+http://pprotv.com:80/yaqoob/yaqoob/39588
+#EXTINF:-1 tvg-id="" tvg-name="MY | GO SHOP" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | GO SHOP
+http://pprotv.com:80/yaqoob/yaqoob/39623
+#EXTINF:-1 tvg-id="" tvg-name="MY | GO SHOP" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | GO SHOP
+http://pprotv.com:80/yaqoob/yaqoob/39624
+#EXTINF:-1 tvg-id="" tvg-name="MY | GO SHOP" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | GO SHOP
+http://pprotv.com:80/yaqoob/yaqoob/39625
+#EXTINF:-1 tvg-id="" tvg-name="MY | GO SHOP 2" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | GO SHOP 2
+http://pprotv.com:80/yaqoob/yaqoob/39626
+#EXTINF:-1 tvg-id="" tvg-name="MY | ABC AUSTRALIA" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ABC AUSTRALIA
+http://pprotv.com:80/yaqoob/yaqoob/39565
+#EXTINF:-1 tvg-id="" tvg-name="MY | AEC HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | AEC HD
+http://pprotv.com:80/yaqoob/yaqoob/39567
+#EXTINF:-1 tvg-id="" tvg-name="MY | AFN HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | AFN HD
+http://pprotv.com:80/yaqoob/yaqoob/39568
+#EXTINF:-1 tvg-id="" tvg-name="MY | TUTOR TV PT3" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TUTOR TV PT3
+http://pprotv.com:80/yaqoob/yaqoob/39660
+#EXTINF:-1 tvg-id="" tvg-name="MY | TUTOR TV SPM" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TUTOR TV SPM
+http://pprotv.com:80/yaqoob/yaqoob/39661
+#EXTINF:-1 tvg-id="" tvg-name="MY | TUTOR TV UPSR" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TUTOR TV UPSR
+http://pprotv.com:80/yaqoob/yaqoob/39662
+#EXTINF:-1 tvg-id="" tvg-name="MY | TVB CLASSIC" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TVB CLASSIC
+http://pprotv.com:80/yaqoob/yaqoob/39666
+#EXTINF:-1 tvg-id="" tvg-name="MY | TVB E-NEWS" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TVB E-NEWS
+http://pprotv.com:80/yaqoob/yaqoob/39667
+#EXTINF:-1 tvg-id="" tvg-name="MY | TVB NEWS" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TVB NEWS
+http://pprotv.com:80/yaqoob/yaqoob/39668
+#EXTINF:-1 tvg-id="" tvg-name="MY | TVB XING HE HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TVB XING HE HD
+http://pprotv.com:80/yaqoob/yaqoob/39669
+#EXTINF:-1 tvg-id="" tvg-name="MY | TVBJ" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TVBJ
+http://pprotv.com:80/yaqoob/yaqoob/39670
+#EXTINF:-1 tvg-id="" tvg-name="MY | TVBS ASIA HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TVBS ASIA HD
+http://pprotv.com:80/yaqoob/yaqoob/39671
+#EXTINF:-1 tvg-id="" tvg-name="MY | TVBS NEWS" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TVBS NEWS
+http://pprotv.com:80/yaqoob/yaqoob/39672
+#EXTINF:-1 tvg-id="" tvg-name="MY | TVIQ" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TVIQ
+http://pprotv.com:80/yaqoob/yaqoob/39673
+#EXTINF:-1 tvg-id="" tvg-name="MY | VAANAVIL HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | VAANAVIL HD
+http://pprotv.com:80/yaqoob/yaqoob/39674
+#EXTINF:-1 tvg-id="" tvg-name="MY | VINMEEN HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | VINMEEN HD
+http://pprotv.com:80/yaqoob/yaqoob/39675
+#EXTINF:-1 tvg-id="" tvg-name="MY | XIAO TAI YANG HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | XIAO TAI YANG HD
+http://pprotv.com:80/yaqoob/yaqoob/39678
+#EXTINF:-1 tvg-id="" tvg-name="MY | AL JAZEERA HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | AL JAZEERA HD
+http://pprotv.com:80/yaqoob/yaqoob/39569
+#EXTINF:-1 tvg-id="" tvg-name="MY | ANIMAL PLANET HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ANIMAL PLANET HD
+http://pprotv.com:80/yaqoob/yaqoob/39570
+#EXTINF:-1 tvg-id="" tvg-name="MY | ANIMAX HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ANIMAX HD
+http://pprotv.com:80/yaqoob/yaqoob/39571
+#EXTINF:-1 tvg-id="" tvg-name="MY | ANIPLUS HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ANIPLUS HD
+http://pprotv.com:80/yaqoob/yaqoob/39572
+#EXTINF:-1 tvg-id="" tvg-name="MY | AXN HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | AXN HD
+http://pprotv.com:80/yaqoob/yaqoob/39591
+#EXTINF:-1 tvg-id="" tvg-name="MY | BBC NEWS HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | BBC NEWS HD
+http://pprotv.com:80/yaqoob/yaqoob/39592
+#EXTINF:-1 tvg-id="" tvg-name="MY | BOLLYONE HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | BOLLYONE HD
+http://pprotv.com:80/yaqoob/yaqoob/39594
+#EXTINF:-1 tvg-id="" tvg-name="MY | CARTOON NTWK HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CARTOON NTWK HD
+http://pprotv.com:80/yaqoob/yaqoob/39595
+#EXTINF:-1 tvg-id="" tvg-name="MY | CCM" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CCM
+http://pprotv.com:80/yaqoob/yaqoob/39596
+#EXTINF:-1 tvg-id="" tvg-name="MY | CCTV4 HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CCTV4 HD
+http://pprotv.com:80/yaqoob/yaqoob/39597
+#EXTINF:-1 tvg-id="" tvg-name="MY | CELESTIAL HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CELESTIAL HD
+http://pprotv.com:80/yaqoob/yaqoob/39598
+#EXTINF:-1 tvg-id="" tvg-name="MY | CHUTTI TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CHUTTI TV
+http://pprotv.com:80/yaqoob/yaqoob/39600
+#EXTINF:-1 tvg-id="" tvg-name="MY | CI HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CI HD
+http://pprotv.com:80/yaqoob/yaqoob/39601
+#EXTINF:-1 tvg-id="" tvg-name="MY | CINEMAX HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CINEMAX HD
+http://pprotv.com:80/yaqoob/yaqoob/39602
+#EXTINF:-1 tvg-id="" tvg-name="MY | CNA HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CNA HD
+http://pprotv.com:80/yaqoob/yaqoob/39603
+#EXTINF:-1 tvg-id="" tvg-name="MY | CNBC" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CNBC
+http://pprotv.com:80/yaqoob/yaqoob/39604
+#EXTINF:-1 tvg-id="" tvg-name="MY | CNN HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CNN HD
+http://pprotv.com:80/yaqoob/yaqoob/39605
+#EXTINF:-1 tvg-id="" tvg-name="MY | COMEDY CENTRAL" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | COMEDY CENTRAL
+http://pprotv.com:80/yaqoob/yaqoob/39607
+#EXTINF:-1 tvg-id="" tvg-name="MY | CTI ASIA" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | CTI ASIA
+http://pprotv.com:80/yaqoob/yaqoob/39608
+#EXTINF:-1 tvg-id="" tvg-name="MY | DISC SCI HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | DISC SCI HD
+http://pprotv.com:80/yaqoob/yaqoob/39609
+#EXTINF:-1 tvg-id="" tvg-name="MY | DISCOVERY ASIA" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | DISCOVERY ASIA
+http://pprotv.com:80/yaqoob/yaqoob/39610
+#EXTINF:-1 tvg-id="" tvg-name="MY | DISCOVERY HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | DISCOVERY HD
+http://pprotv.com:80/yaqoob/yaqoob/39611
+#EXTINF:-1 tvg-id="" tvg-name="MY | DISNEY CHANNEL HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | DISNEY CHANNEL HD
+http://pprotv.com:80/yaqoob/yaqoob/39612
+#EXTINF:-1 tvg-id="" tvg-name="MY | DISNEY JUNIOR HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | DISNEY JUNIOR HD
+http://pprotv.com:80/yaqoob/yaqoob/39613
+#EXTINF:-1 tvg-id="" tvg-name="MY | DISNEY XD HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | DISNEY XD HD
+http://pprotv.com:80/yaqoob/yaqoob/39614
+#EXTINF:-1 tvg-id="" tvg-name="MY | DMAX HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | DMAX HD
+http://pprotv.com:80/yaqoob/yaqoob/39615
+#EXTINF:-1 tvg-id="" tvg-name="MY | DW HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | DW HD
+http://pprotv.com:80/yaqoob/yaqoob/39616
+#EXTINF:-1 tvg-id="" tvg-name="MY | EUROSPORT HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | EUROSPORT HD
+http://pprotv.com:80/yaqoob/yaqoob/39617
+#EXTINF:-1 tvg-id="" tvg-name="MY | FOOD NTWK HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | FOOD NTWK HD
+http://pprotv.com:80/yaqoob/yaqoob/39618
+#EXTINF:-1 tvg-id="" tvg-name="MY | FOX SPORTS 2 HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | FOX SPORTS 2 HD
+http://pprotv.com:80/yaqoob/yaqoob/39619
+#EXTINF:-1 tvg-id="" tvg-name="MY | FOX SPORTS 3 HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | FOX SPORTS 3 HD
+http://pprotv.com:80/yaqoob/yaqoob/39620
+#EXTINF:-1 tvg-id="" tvg-name="MY | FOX SPORTS HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | FOX SPORTS HD
+http://pprotv.com:80/yaqoob/yaqoob/39621
+#EXTINF:-1 tvg-id="" tvg-name="MY | FRANCE24 HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | FRANCE24 HD
+http://pprotv.com:80/yaqoob/yaqoob/39622
+#EXTINF:-1 tvg-id="" tvg-name="MY | GOLF CHANNEL HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | GOLF CHANNEL HD
+http://pprotv.com:80/yaqoob/yaqoob/39627
+#EXTINF:-1 tvg-id="" tvg-name="MY | HBO HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | HBO HD
+http://pprotv.com:80/yaqoob/yaqoob/39628
+#EXTINF:-1 tvg-id="" tvg-name="MY | HELLO" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | HELLO
+http://pprotv.com:80/yaqoob/yaqoob/39629
+#EXTINF:-1 tvg-id="" tvg-name="MY | HGTV HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | HGTV HD
+http://pprotv.com:80/yaqoob/yaqoob/39630
+#EXTINF:-1 tvg-id="" tvg-name="MY | HISTORY HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | HISTORY HD
+http://pprotv.com:80/yaqoob/yaqoob/39631
+#EXTINF:-1 tvg-id="" tvg-name="MY | HITS HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | HITS HD
+http://pprotv.com:80/yaqoob/yaqoob/39632
+#EXTINF:-1 tvg-id="" tvg-name="MY | HITS MOVIES HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | HITS MOVIES HD
+http://pprotv.com:80/yaqoob/yaqoob/39633
+#EXTINF:-1 tvg-id="" tvg-name="MY | HUA HEE DAI HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | HUA HEE DAI HD
+http://pprotv.com:80/yaqoob/yaqoob/39634
+#EXTINF:-1 tvg-id="" tvg-name="MY | KBSW HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | KBSW HD
+http://pprotv.com:80/yaqoob/yaqoob/39635
+#EXTINF:-1 tvg-id="" tvg-name="MY | KIX HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | KIX HD
+http://pprotv.com:80/yaqoob/yaqoob/39636
+#EXTINF:-1 tvg-id="" tvg-name="MY | KPLUS HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | KPLUS HD
+http://pprotv.com:80/yaqoob/yaqoob/39637
+#EXTINF:-1 tvg-id="" tvg-name="MY | MAKKAL TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | MAKKAL TV
+http://pprotv.com:80/yaqoob/yaqoob/39638
+#EXTINF:-1 tvg-id="" tvg-name="MY | MTV HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | MTV HD
+http://pprotv.com:80/yaqoob/yaqoob/39639
+#EXTINF:-1 tvg-id="" tvg-name="MY | NAT GEO HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | NAT GEO HD
+http://pprotv.com:80/yaqoob/yaqoob/39640
+#EXTINF:-1 tvg-id="" tvg-name="MY | NAT GEO PEOPLE" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | NAT GEO PEOPLE
+http://pprotv.com:80/yaqoob/yaqoob/39641
+#EXTINF:-1 tvg-id="" tvg-name="MY | NGW HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | NGW HD
+http://pprotv.com:80/yaqoob/yaqoob/39643
+#EXTINF:-1 tvg-id="" tvg-name="MY | NICK JR" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | NICK JR
+http://pprotv.com:80/yaqoob/yaqoob/39644
+#EXTINF:-1 tvg-id="" tvg-name="MY | NICKELODEON HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | NICKELODEON HD
+http://pprotv.com:80/yaqoob/yaqoob/39645
+#EXTINF:-1 tvg-id="" tvg-name="MY | ONE HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | ONE HD
+http://pprotv.com:80/yaqoob/yaqoob/39647
+#EXTINF:-1 tvg-id="" tvg-name="MY | OH!K HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | OH!K HD
+http://pprotv.com:80/yaqoob/yaqoob/39648
+#EXTINF:-1 tvg-id="" tvg-name="MY | PHOENIX HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | PHOENIX HD
+http://pprotv.com:80/yaqoob/yaqoob/39649
+#EXTINF:-1 tvg-id="" tvg-name="MY | PHOENIX NEWS HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | PHOENIX NEWS HD
+http://pprotv.com:80/yaqoob/yaqoob/39650
+#EXTINF:-1 tvg-id="" tvg-name="MY | SHUANG XING HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | SHUANG XING HD
+http://pprotv.com:80/yaqoob/yaqoob/39655
+#EXTINF:-1 tvg-id="" tvg-name="MY | SKY NEWS HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | SKY NEWS HD
+http://pprotv.com:80/yaqoob/yaqoob/39656
+#EXTINF:-1 tvg-id="" tvg-name="MY | SUN MUSIC HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | SUN MUSIC HD
+http://pprotv.com:80/yaqoob/yaqoob/39657
+#EXTINF:-1 tvg-id="" tvg-name="MY | SUN TV HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | SUN TV HD
+http://pprotv.com:80/yaqoob/yaqoob/39658
+#EXTINF:-1 tvg-id="" tvg-name="MY | TLC HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TLC HD
+http://pprotv.com:80/yaqoob/yaqoob/39659
+#EXTINF:-1 tvg-id="" tvg-name="MY | BEIN MAX" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | BEIN MAX
+http://pprotv.com:80/yaqoob/yaqoob/39679
+#EXTINF:-1 tvg-id="" tvg-name="MY | BEIN SPORTS" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | BEIN SPORTS
+http://pprotv.com:80/yaqoob/yaqoob/39680
+#EXTINF:-1 tvg-id="" tvg-name="MY | EGG NETWORK" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | EGG NETWORK
+http://pprotv.com:80/yaqoob/yaqoob/39681
+#EXTINF:-1 tvg-id="" tvg-name="MY | IQIYI HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | IQIYI HD
+http://pprotv.com:80/yaqoob/yaqoob/39682
+#EXTINF:-1 tvg-id="" tvg-name="MY | TVN HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TVN HD
+http://pprotv.com:80/yaqoob/yaqoob/39683
+#EXTINF:-1 tvg-id="" tvg-name="MY | TVN MOVIES" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN MY",MY | TVN MOVIES
+http://pprotv.com:80/yaqoob/yaqoob/39684
 
+#EXTINF:-1 tvg-id="" tvg-name="INDO | NET." tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | NET.
+http://pprotv.com:80/yaqoob/yaqoob/39426
+#EXTINF:-1 tvg-id="" tvg-name="INDO | INDOSIAR" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | INDOSIAR
+http://pprotv.com:80/yaqoob/yaqoob/39427
+#EXTINF:-1 tvg-id="" tvg-name="INDO | SCTV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | SCTV
+http://pprotv.com:80/yaqoob/yaqoob/39428
+#EXTINF:-1 tvg-id="" tvg-name="INDO | TRANS TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | TRANS TV
+http://pprotv.com:80/yaqoob/yaqoob/39429
+#EXTINF:-1 tvg-id="" tvg-name="INDO | CNN Indonesia" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | CNN Indonesia
+http://pprotv.com:80/yaqoob/yaqoob/39430
+#EXTINF:-1 tvg-id="" tvg-name="INDO | CNBC Indonesia" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | CNBC Indonesia
+http://pprotv.com:80/yaqoob/yaqoob/39431
+#EXTINF:-1 tvg-id="" tvg-name="INDO | RTV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | RTV
+http://pprotv.com:80/yaqoob/yaqoob/39432
+#EXTINF:-1 tvg-id="" tvg-name="INDO | ANTV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | ANTV
+http://pprotv.com:80/yaqoob/yaqoob/39433
+#EXTINF:-1 tvg-id="" tvg-name="INDO | TVOne" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | TVOne
+http://pprotv.com:80/yaqoob/yaqoob/39434
+#EXTINF:-1 tvg-id="" tvg-name="INDO | KOMPAS TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | KOMPAS TV
+http://pprotv.com:80/yaqoob/yaqoob/39435
+#EXTINF:-1 tvg-id="" tvg-name="INDO | METRO TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | METRO TV
+http://pprotv.com:80/yaqoob/yaqoob/39436
+#EXTINF:-1 tvg-id="" tvg-name="INDO | BeritaSatu" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | BeritaSatu
+http://pprotv.com:80/yaqoob/yaqoob/39437
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Antara TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Antara TV
+http://pprotv.com:80/yaqoob/yaqoob/39438
+#EXTINF:-1 tvg-id="" tvg-name="INDO | DAAI TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | DAAI TV
+http://pprotv.com:80/yaqoob/yaqoob/39439
+#EXTINF:-1 tvg-id="" tvg-name="INDO | MyTV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | MyTV
+http://pprotv.com:80/yaqoob/yaqoob/39440
+#EXTINF:-1 tvg-id="" tvg-name="INDO | JAKTV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | JAKTV
+http://pprotv.com:80/yaqoob/yaqoob/39441
+#EXTINF:-1 tvg-id="" tvg-name="INDO | BaliTV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | BaliTV
+http://pprotv.com:80/yaqoob/yaqoob/39442
+#EXTINF:-1 tvg-id="" tvg-name="INDO | TVRI Nasional" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | TVRI Nasional
+http://pprotv.com:80/yaqoob/yaqoob/39443
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Galaxy Premium" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Galaxy Premium
+http://pprotv.com:80/yaqoob/yaqoob/39444
+#EXTINF:-1 tvg-id="" tvg-name="INDO | CinemaWorld" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | CinemaWorld
+http://pprotv.com:80/yaqoob/yaqoob/39445
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Bioskop Indonesia" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Bioskop Indonesia
+http://pprotv.com:80/yaqoob/yaqoob/39446
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Jowo Channel" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Jowo Channel
+http://pprotv.com:80/yaqoob/yaqoob/39447
+#EXTINF:-1 tvg-id="" tvg-name="INDO | tvMU" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | tvMU
+http://pprotv.com:80/yaqoob/yaqoob/39448
+#EXTINF:-1 tvg-id="" tvg-name="INDO | tv9 Nusantara" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | tv9 Nusantara
+http://pprotv.com:80/yaqoob/yaqoob/39449
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Al Quran Al Kareem TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Al Quran Al Kareem TV
+http://pprotv.com:80/yaqoob/yaqoob/39450
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Rodja TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Rodja TV
+http://pprotv.com:80/yaqoob/yaqoob/39451
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Tawaf TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Tawaf TV
+http://pprotv.com:80/yaqoob/yaqoob/39452
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Citra Dangdut" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Citra Dangdut
+http://pprotv.com:80/yaqoob/yaqoob/39453
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Citra Drama" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Citra Drama
+http://pprotv.com:80/yaqoob/yaqoob/39454
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Dunia Lain" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Dunia Lain
+http://pprotv.com:80/yaqoob/yaqoob/39455
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Disney Channel" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Disney Channel
+http://pprotv.com:80/yaqoob/yaqoob/39456
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Disney Junior" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Disney Junior
+http://pprotv.com:80/yaqoob/yaqoob/39457
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Disney XD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Disney XD
+http://pprotv.com:80/yaqoob/yaqoob/39458
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Cartoon Network" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Cartoon Network
+http://pprotv.com:80/yaqoob/yaqoob/39459
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Dreamworks" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Dreamworks
+http://pprotv.com:80/yaqoob/yaqoob/39460
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Boomerang" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Boomerang
+http://pprotv.com:80/yaqoob/yaqoob/39461
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Nickelodeon" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Nickelodeon
+http://pprotv.com:80/yaqoob/yaqoob/39462
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Nick Jr" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Nick Jr
+http://pprotv.com:80/yaqoob/yaqoob/39463
+#EXTINF:-1 tvg-id="" tvg-name="INDO | BabyTV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | BabyTV
+http://pprotv.com:80/yaqoob/yaqoob/39464
+#EXTINF:-1 tvg-id="" tvg-name="INDO | BeSmart" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | BeSmart
+http://pprotv.com:80/yaqoob/yaqoob/39465
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Horee" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Horee
+http://pprotv.com:80/yaqoob/yaqoob/39466
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Lingua" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Lingua
+http://pprotv.com:80/yaqoob/yaqoob/39467
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Zoomoo" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Zoomoo
+http://pprotv.com:80/yaqoob/yaqoob/39468
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Dunia Anak" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Dunia Anak
+http://pprotv.com:80/yaqoob/yaqoob/39469
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Da Vinci" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Da Vinci
+http://pprotv.com:80/yaqoob/yaqoob/39470
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Duck TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Duck TV
+http://pprotv.com:80/yaqoob/yaqoob/39471
+#EXTINF:-1 tvg-id="" tvg-name="INDO | BabyFirst" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | BabyFirst
+http://pprotv.com:80/yaqoob/yaqoob/39472
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Channel V. Int" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Channel V. Int
+http://pprotv.com:80/yaqoob/yaqoob/39473
+#EXTINF:-1 tvg-id="" tvg-name="INDO | MTV Live HD" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | MTV Live HD
+http://pprotv.com:80/yaqoob/yaqoob/39474
+#EXTINF:-1 tvg-id="" tvg-name="INDO | E-Konser" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | E-Konser
+http://pprotv.com:80/yaqoob/yaqoob/39475
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Prambors" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Prambors
+http://pprotv.com:80/yaqoob/yaqoob/39476
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Love Nature" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Love Nature
+http://pprotv.com:80/yaqoob/yaqoob/39477
+#EXTINF:-1 tvg-id="" tvg-name="INDO | History" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | History
+http://pprotv.com:80/yaqoob/yaqoob/39478
+#EXTINF:-1 tvg-id="" tvg-name="INDO | AFC" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | AFC
+http://pprotv.com:80/yaqoob/yaqoob/39479
+#EXTINF:-1 tvg-id="" tvg-name="INDO | TLC" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | TLC
+http://pprotv.com:80/yaqoob/yaqoob/39480
+#EXTINF:-1 tvg-id="" tvg-name="INDO | BBC Earth" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | BBC Earth
+http://pprotv.com:80/yaqoob/yaqoob/39481
+#EXTINF:-1 tvg-id="" tvg-name="INDO | BBC Lifestyle" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | BBC Lifestyle
+http://pprotv.com:80/yaqoob/yaqoob/39482
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Animal Planet" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Animal Planet
+http://pprotv.com:80/yaqoob/yaqoob/39483
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Discovery Channel" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Discovery Channel
+http://pprotv.com:80/yaqoob/yaqoob/39484
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Discovery Asia" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Discovery Asia
+http://pprotv.com:80/yaqoob/yaqoob/39485
+#EXTINF:-1 tvg-id="" tvg-name="INDO | National Geographic" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | National Geographic
+http://pprotv.com:80/yaqoob/yaqoob/39486
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Nat Geo People" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Nat Geo People
+http://pprotv.com:80/yaqoob/yaqoob/39487
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Nat Geo Wild" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Nat Geo Wild
+http://pprotv.com:80/yaqoob/yaqoob/39488
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Warner TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Warner TV
+http://pprotv.com:80/yaqoob/yaqoob/39489
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Lifetime" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Lifetime
+http://pprotv.com:80/yaqoob/yaqoob/39490
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Blue Ant Entertainment" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Blue Ant Entertainment
+http://pprotv.com:80/yaqoob/yaqoob/39491
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Blue Ant Extreme" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Blue Ant Extreme
+http://pprotv.com:80/yaqoob/yaqoob/39492
+#EXTINF:-1 tvg-id="" tvg-name="INDO | AXN" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | AXN
+http://pprotv.com:80/yaqoob/yaqoob/39493
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | FOX
+http://pprotv.com:80/yaqoob/yaqoob/39494
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Crime" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | FOX Crime
+http://pprotv.com:80/yaqoob/yaqoob/39495
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Life" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | FOX Life
+http://pprotv.com:80/yaqoob/yaqoob/39496
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Movies Premium" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | FOX Movies Premium
+http://pprotv.com:80/yaqoob/yaqoob/39497
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Action Movies" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | FOX Action Movies
+http://pprotv.com:80/yaqoob/yaqoob/39498
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Family Movies (ENG)" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | FOX Family Movies (ENG)
+http://pprotv.com:80/yaqoob/yaqoob/39499
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Family Movies (IDN)" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | FOX Family Movies (IDN)
+http://pprotv.com:80/yaqoob/yaqoob/39500
+#EXTINF:-1 tvg-id="" tvg-name="INDO | HBO" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | HBO
+http://pprotv.com:80/yaqoob/yaqoob/39501
+#EXTINF:-1 tvg-id="" tvg-name="INDO | HBO Family" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | HBO Family
+http://pprotv.com:80/yaqoob/yaqoob/39502
+#EXTINF:-1 tvg-id="" tvg-name="INDO | HBO Hits" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | HBO Hits
+http://pprotv.com:80/yaqoob/yaqoob/39503
+#EXTINF:-1 tvg-id="" tvg-name="INDO | HBO Signature" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | HBO Signature
+http://pprotv.com:80/yaqoob/yaqoob/39504
+#EXTINF:-1 tvg-id="" tvg-name="INDO | RED by HBO" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | RED by HBO
+http://pprotv.com:80/yaqoob/yaqoob/39505
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Cinemax by HBO" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Cinemax by HBO
+http://pprotv.com:80/yaqoob/yaqoob/39506
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Crime Investigation" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Crime Investigation
+http://pprotv.com:80/yaqoob/yaqoob/39507
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Flik" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Flik
+http://pprotv.com:80/yaqoob/yaqoob/39508
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Thrill" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Thrill
+http://pprotv.com:80/yaqoob/yaqoob/39509
+#EXTINF:-1 tvg-id="" tvg-name="INDO | HITS" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | HITS
+http://pprotv.com:80/yaqoob/yaqoob/39510
+#EXTINF:-1 tvg-id="" tvg-name="INDO | HITS Movies" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | HITS Movies
+http://pprotv.com:80/yaqoob/yaqoob/39511
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Fashion One" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Fashion One
+http://pprotv.com:80/yaqoob/yaqoob/39512
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Sony One" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Sony One
+http://pprotv.com:80/yaqoob/yaqoob/39513
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Celestial Classic Movies" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Celestial Classic Movies
+http://pprotv.com:80/yaqoob/yaqoob/39514
+#EXTINF:-1 tvg-id="" tvg-name="INDO | SCM Legend" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | SCM Legend
+http://pprotv.com:80/yaqoob/yaqoob/39515
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Star Chinese Movies" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Star Chinese Movies
+http://pprotv.com:80/yaqoob/yaqoob/39516
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Chinese Drama" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Chinese Drama
+http://pprotv.com:80/yaqoob/yaqoob/39517
+#EXTINF:-1 tvg-id="" tvg-name="INDO | ZEE Bioskop" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | ZEE Bioskop
+http://pprotv.com:80/yaqoob/yaqoob/39518
+#EXTINF:-1 tvg-id="" tvg-name="INDO | ZEE TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | ZEE TV
+http://pprotv.com:80/yaqoob/yaqoob/39519
+#EXTINF:-1 tvg-id="" tvg-name="INDO | ZEE Cinema" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | ZEE Cinema
+http://pprotv.com:80/yaqoob/yaqoob/39520
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Zing" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Zing
+http://pprotv.com:80/yaqoob/yaqoob/39521
+#EXTINF:-1 tvg-id="" tvg-name="INDO | BBC World News" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | BBC World News
+http://pprotv.com:80/yaqoob/yaqoob/39522
+#EXTINF:-1 tvg-id="" tvg-name="INDO | NHK World" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | NHK World
+http://pprotv.com:80/yaqoob/yaqoob/39523
+#EXTINF:-1 tvg-id="" tvg-name="INDO | CNN International" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | CNN International
+http://pprotv.com:80/yaqoob/yaqoob/39524
+#EXTINF:-1 tvg-id="" tvg-name="INDO | DW" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | DW
+http://pprotv.com:80/yaqoob/yaqoob/39525
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Russia Today (RT)" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Russia Today (RT)
+http://pprotv.com:80/yaqoob/yaqoob/39526
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Channel News Asia" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Channel News Asia
+http://pprotv.com:80/yaqoob/yaqoob/39527
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Bloomberg" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Bloomberg
+http://pprotv.com:80/yaqoob/yaqoob/39528
+#EXTINF:-1 tvg-id="" tvg-name="INDO | NBC Golf" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | NBC Golf
+http://pprotv.com:80/yaqoob/yaqoob/39529
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Sport 1" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | FOX Sport 1
+http://pprotv.com:80/yaqoob/yaqoob/39530
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Sport 2" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | FOX Sport 2
+http://pprotv.com:80/yaqoob/yaqoob/39531
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Fashion TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Fashion TV
+http://pprotv.com:80/yaqoob/yaqoob/39532
+#EXTINF:-1 tvg-id="" tvg-name="INDO | TRANS 7" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | TRANS 7
+http://pprotv.com:80/yaqoob/yaqoob/39533
+#EXTINF:-1 tvg-id="" tvg-name="INDO | JTV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | JTV
+http://pprotv.com:80/yaqoob/yaqoob/39534
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Sinema Indonesia" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Sinema Indonesia
+http://pprotv.com:80/yaqoob/yaqoob/39535
+#EXTINF:-1 tvg-id="" tvg-name="INDO | MTATV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | MTATV
+http://pprotv.com:80/yaqoob/yaqoob/39536
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Salam TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Salam TV
+http://pprotv.com:80/yaqoob/yaqoob/39537
+#EXTINF:-1 tvg-id="" tvg-name="INDO | HGTV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | HGTV
+http://pprotv.com:80/yaqoob/yaqoob/39538
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Arirang" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Arirang
+http://pprotv.com:80/yaqoob/yaqoob/39539
+#EXTINF:-1 tvg-id="" tvg-name="INDO | tvN" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | tvN
+http://pprotv.com:80/yaqoob/yaqoob/39540
+#EXTINF:-1 tvg-id="" tvg-name="INDO | tvN Movies" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | tvN Movies
+http://pprotv.com:80/yaqoob/yaqoob/39541
+#EXTINF:-1 tvg-id="" tvg-name="INDO | KBS World" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | KBS World
+http://pprotv.com:80/yaqoob/yaqoob/39542
+#EXTINF:-1 tvg-id="" tvg-name="INDO | K+" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | K+
+http://pprotv.com:80/yaqoob/yaqoob/39543
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Animax" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Animax
+http://pprotv.com:80/yaqoob/yaqoob/39544
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Aniplus" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Aniplus
+http://pprotv.com:80/yaqoob/yaqoob/39545
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Waku Waku Japan" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Waku Waku Japan
+http://pprotv.com:80/yaqoob/yaqoob/39546
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Sony GEM TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Sony GEM TV
+http://pprotv.com:80/yaqoob/yaqoob/39547
+#EXTINF:-1 tvg-id="" tvg-name="INDO | KIX" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | KIX
+http://pprotv.com:80/yaqoob/yaqoob/39548
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Celestial Movies" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Celestial Movies
+http://pprotv.com:80/yaqoob/yaqoob/39549
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Sport 3" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | FOX Sport 3
+http://pprotv.com:80/yaqoob/yaqoob/39550
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Fight Sport" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Fight Sport
+http://pprotv.com:80/yaqoob/yaqoob/39551
+#EXTINF:-1 tvg-id="" tvg-name="INDO | beIN Sports 1 ID" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | beIN Sports 1 ID
+http://pprotv.com:80/yaqoob/yaqoob/39552
+#EXTINF:-1 tvg-id="" tvg-name="INDO | beIN Sports 2 ID" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | beIN Sports 2 ID
+http://pprotv.com:80/yaqoob/yaqoob/39553
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Useesports 1" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Useesports 1
+http://pprotv.com:80/yaqoob/yaqoob/39554
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Useesports 2" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Useesports 2
+http://pprotv.com:80/yaqoob/yaqoob/39555
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Champions 1 TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Champions 1 TV
+http://pprotv.com:80/yaqoob/yaqoob/39556
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Champions 2 TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | Champions 2 TV
+http://pprotv.com:80/yaqoob/yaqoob/39557
+#EXTINF:-1 tvg-id="" tvg-name="INDO | NBA TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | NBA TV
+http://pprotv.com:80/yaqoob/yaqoob/39558
+#EXTINF:-1 tvg-id="" tvg-name="INDO | eGG TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | eGG TV
+http://pprotv.com:80/yaqoob/yaqoob/39559
+#EXTINF:-1 tvg-id="" tvg-name="INDO | SG: CHANNEL 5" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | SG: CHANNEL 5
+http://pprotv.com:80/yaqoob/yaqoob/39560
+#EXTINF:-1 tvg-id="" tvg-name="INDO | SG: CHANNEL 8" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | SG: CHANNEL 8
+http://pprotv.com:80/yaqoob/yaqoob/39561
+#EXTINF:-1 tvg-id="" tvg-name="INDO | SG: CHANNEL U" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | SG: CHANNEL U
+http://pprotv.com:80/yaqoob/yaqoob/39562
+#EXTINF:-1 tvg-id="" tvg-name="INDO | SG: SURIA" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | SG: SURIA
+http://pprotv.com:80/yaqoob/yaqoob/39563
+#EXTINF:-1 tvg-id="" tvg-name="INDO | SG: VASANTHAM" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="ASIAN INDO",INDO | SG: VASANTHAM
+http://pprotv.com:80/yaqoob/yaqoob/39564
 
 
 
