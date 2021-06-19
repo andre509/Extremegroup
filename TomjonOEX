@@ -21,6 +21,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",NBT
 https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",Sony Six auto
+https://streamer-1.toffeelive.com/mobile_hls/sony_six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",Sony Six
 http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",Sony Ten 1 HD
@@ -31,6 +33,8 @@ http://103.153.39.34:8000/play/a042/index.m3u8
 http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",SONY TEN 2
 http://103.153.39.34:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",Sony Ten 3 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",Sony Ten 3 SD
 http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",PPTV
