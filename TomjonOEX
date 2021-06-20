@@ -137,6 +137,235 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/b630a001384
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/eea032203b3ce31.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" tvg-id="RIYAN.f94e4345da4a5c37ca4b98ceac2907fa.SHINTA" tvg-name"[CODAY] Champions TV 1 _VIDIO" group-title="VIDIO KSA",Champions TV 1 _VIDIO
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6685
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6685.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zVTqzS-Vwnp_mhhekbD0xVUdBdI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" tvg-id="RIYAN.5798ce6ff30d7091f36ba5281a525e1d.SHINTA" tvg-name"[CODAY] Champions TV 2 _VIDIO" group-title="VIDIO KSA",Champions TV 2 _VIDIO
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6686
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6686.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.878427f65486bcabdef8b0085f410383.SHINTA" tvg-name"[CODAY] Champions TV 3 _VIDIO" group-title="VIDIO KSA",Champions TV 3 _VIDIO
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6786
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6786.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",MOLAtv Free
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6840
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6840.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Rcti
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",SCTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Gtv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Kompastv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Trans7
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",TransTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Rtv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Daitv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",ntv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7432.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Jaktv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Mytv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Indosiar
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",O channel
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",TVRI
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Ajwa tv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7464.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Alquran Kareem
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6852.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Metro tv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",MNC tv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Jak tv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Net
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",I news
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",O shop
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6166.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Video entertainment
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7352
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7352.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",DW
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5075.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Tv edukasi
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6838.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Rtv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Berita satu
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6165.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Citra bioskop
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6684
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6684.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Citra entertainmend
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6402
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6402.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Citra drama
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6401
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6401.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Citra dangdut
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6587
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6587.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Smithsonian
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6550
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6550.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Love nature
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6635
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6635.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Hip-hop Horee
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7052.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Zoomoo
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6533.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Davinci
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6549.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Al-Jazeera
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6410.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Euro news
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6412.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",ABC Australia
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7150.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Citra muslim
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6678.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",Reformed21
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6853.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO HOME",U channel
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6898.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="VIDIO KSA",SCTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="VIDIO KSA",INDOSIAR
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ochannel.png" group-title="VIDIO KSA",O Channel
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ajwatv.png" group-title="VIDIO KSA",AJWA TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7464.m3u8
+
+#EXTINF:-1 tvg-id="ksa.alqurantv" tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="VIDIO KSA",AlQuran Kareem
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6852.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="VIDIO KSA",Kompas TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="VIDIO KSA",Berita Satu
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6165.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="VIDIO KSA",Metro TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
+
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="VIDIO KSA",Trans TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="VIDIO KSA",RCTI
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="VIDIO KSA",Trans 7
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
+
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="VIDIO KSA",MNCTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="VIDIO KSA",JakTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="VIDIO KSA",GTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="VIDIO KSA",NET
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="VIDIO KSA",iNews
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/oshop.png" group-title="VIDIO KSA",O SHop
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6166.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="VIDIO KSA",TVRI
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="VIDIO KSA",MYTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="VIDIO KSA",Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_ShareExt_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="VIDIO KSA",Nusantara TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7432.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="VIDIO KSA",DAAI TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
+
+#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="VIDIO KSA",DW English
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5075.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="VIDIO KSA",TV Edukasi
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6838.m3u8
+
+#EXTINF:-1 tvg-id="rtv" tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="VIDIO KSA",RTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="VIDIO KSA", SEA TODAY
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7687.m3u8
+
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/musica.png" group-title="VIDIO KSA",MUSICA
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7619.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_big1.png?v=2.0.0.13" group-title="Home UseeTV"  tvg-id="Riyan.d67d8ab4f4c10bf22aa353e27879133c.Coday" tvg-name"[CODAY] beIN Sport 1 _USEETV",beIN Sport 1 _USEE
