@@ -3360,6 +3360,47 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="SPORTS FIGHT", TV FIGHT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport  ESPN FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-espn-uk.png" group-title="UK BT SPORTS",BT Sport  ESPN FHD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484224
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport  ESPN SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-espn-uk.png" group-title="UK BT SPORTS",BT Sport  ESPN SD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484214
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="UK BT SPORTS",BT Sport 1 FHD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484221
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="UK BT SPORTS",BT Sport 1 HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2503673
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="UK BT SPORTS",BT Sport 1 SD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484211
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="UK BT SPORTS",BT Sport 2 FHD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484222
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="UK BT SPORTS",BT Sport 2 HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2503674
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="UK BT SPORTS",BT Sport 2 SD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484212
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="UK BT SPORTS",BT Sport 3 FHD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484223
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="UK BT SPORTS",BT Sport 3 HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2503675
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="UK BT SPORTS",BT Sport 3 SD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484213
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-espn-uk.png" group-title="UK BT SPORTS",BT Sport ESPN HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2503672
+#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="BT Sport Extra 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-1-uk.png" group-title="UK BT SPORTS",BT Sport Extra 1
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484215
+#EXTINF:-1 tvg-id="BTSportX2.uk" tvg-name="BT Sport Extra 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-2-uk.png" group-title="UK BT SPORTS",BT Sport Extra 2
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484216
+#EXTINF:-1 tvg-id="BTSportX3.uk" tvg-name="BT Sport Extra 3" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-3-uk.png" group-title="UK BT SPORTS",BT Sport Extra 3
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484217
+#EXTINF:-1 tvg-id="BTSportX4.uk" tvg-name="BT Sport Extra 4" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-4-uk.png" group-title="UK BT SPORTS",BT Sport Extra 4
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484218
+#EXTINF:-1 tvg-id="BTSportX5.uk" tvg-name="BT Sport Extra 5" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-5-uk.png" group-title="UK BT SPORTS",BT Sport Extra 5
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484219
+#EXTINF:-1 tvg-id="BTSportX6.uk" tvg-name="BT Sport Extra 6" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-6-uk.png" group-title="UK BT SPORTS",BT Sport Extra 6
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484220
+#EXTINF:-1 tvg-id="Burnley FC.epl.uk" tvg-name="Burnley - EPL - Premier League" tvg-logo="http://tesprologs.xyz/Logos/EPL_LOGOS/Burnley%20F.C.%20.png" group-title="EPL",Burnley - EPL - Premier League
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2075196
+#EXTINF:-1 tvg-id="Burton Albion FC.efl.uk" tvg-name="Burton Albion - EFL - League One" tvg-logo="http://tesprologs.xyz/Logos/EFL_LOGOS/Burton%20Albion%20FC%20.png" group-title="EFL",Burton Albion - EFL - League One
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2485779
+
 
 #EXTINF:-1 tvg-id="1.S" tvg-name="NZ Spark Sports Event 1" tvg-logo="http://tesprologs.xyz/Logos/SparkSports-WHITE/01.png" group-title="OPTUS & SPARK SPORTS",NZ Spark Sports Event 1
 http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2567864
