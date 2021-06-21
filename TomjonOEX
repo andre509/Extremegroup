@@ -12,7 +12,7 @@ http://portal.alliptv.tv:8080/530354021348/397532457292/5497
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",SPORT 5 
 https://95-213-224-183.livesports24.online/belarusss5.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",ESPN
-http://164.68.124.111/fs2.m3u8
+http://164.68.124.111/fs1.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",ESPN HD
 http://getwhitakertv.org:25461/694767/067823/1014
 http://gma2.blab.email/fs2.m3u8 
@@ -63,6 +63,40 @@ http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2875419
 http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2875418
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 1 4K+" tvg-logo="" group-title="ESPN",NL VIP: ESPN 1 4K+
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11697
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 1 HD" tvg-logo="" group-title="ESPN",NL VIP: ESPN 1 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11681
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 2 4K+" tvg-logo="" group-title="ESPN",NL VIP: ESPN 2 4K+
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11698
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 2 HD" tvg-logo="" group-title="ESPN",NL VIP: ESPN 2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11682
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 3 4K+" tvg-logo="" group-title="ESPN",NL VIP: ESPN 3 4K+
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11699
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 3 HD" tvg-logo="" group-title="ESPN",NL VIP: ESPN 3 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11683
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 4 4K+" tvg-logo="" group-title="ESPN",NL VIP: ESPN 4 4K+
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11700
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 4 HD" tvg-logo="" group-title="ESPN",NL VIP: ESPN 4 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11684
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 5 4K+" tvg-logo="" group-title="ESPN",NL VIP: ESPN 5 4K+
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11701
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 5 HD" tvg-logo="" group-title="ESPN",NL VIP: ESPN 5 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11685
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 6 4K+" tvg-logo="" group-title="ESPN",NL VIP: ESPN 6 4K+
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11702
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: ESPN 6 HD" tvg-logo="" group-title="ESPN",NL VIP: ESPN 6 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11686
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: EUROSPORT 1 4K+" tvg-logo="" group-title="ESPN",NL VIP: EUROSPORT 1 4K+
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11709
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: EUROSPORT 1 HD" tvg-logo="" group-title="ESPN",NL VIP: EUROSPORT 1 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11711
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: EUROSPORT 2 4K+" tvg-logo="" group-title="ESPN",NL VIP: EUROSPORT 2 4K+
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11710
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: EUROSPORT 2 HD" tvg-logo="" group-title="ESPN",NL VIP: EUROSPORT 2 HD
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/11712
+#EXTINF:-1 tvg-id="" tvg-name="NL VIP: EXTREME SPORTS" tvg-logo="" group-title="ESPN",NL VIP: EXTREME SPORTS
+http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/28614
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CTV",HLS Stream 1
 https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/master.m3u8
