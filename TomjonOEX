@@ -3210,6 +3210,32 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync
 
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ1_small.png" group-title="SPORTS WAK",ChampionTV 1
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ2_small.png" group-title="SPORTS WAK",Champion TV 2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0 
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_big1.png?v=2.0.0.13" group-title="SPORTS WAK"  tvg-id="Riyan.d67d8ab4f4c10bf22aa353e27879133c.Coday" tvg-name"[CODAY] beIN Sport 1 _USEETV",beIN Sport 1 _USEE
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/chunklist.m3u8?id=bein1&bandwidth=b684100&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_big1.png?v=2.0.0.13" group-title="SPORTS WAK"  tvg-id="Riyan.1679091c5a880faf6fb5e6087eb1b2dc.Coday" tvg-name"[CODAY] beIN Sport 2 _USEETV",beIN Sport 2 _USEE
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/chunklist.m3u8?id=bein2&bandwidth=b684100&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesport_big.png?v=2.0.0.13" group-title="SPORTS WAK"  tvg-id="Riyan.98f13708210194c475687be6106a3b84.Coday" tvg-name"[CODAY] UseeSports _USEETV",UseeSports _USEE
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=useesport
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/chunklist.m3u8?id=useesport&bandwidth=b684100&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="SPORTS WAK"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports2 _USEE
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=useesports2
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/chunklist.m3u8?id=useesports2&bandwidth=b684100&sync=0
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png?v=2.0.0.13" group-title="SPORTS WAK"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] Fox Sport 1 _USEETV",Fox Sport 1 _USEE
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/chunklist.m3u8?id=foxsport1&bandwidth=b684100&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png?v=2.0.0.13" group-title="SPORTS WAK"  tvg-id="Riyan.c0c7c76d30bd3dcaefc96f40275bdc0a.Coday" tvg-name"[CODAY] Fox Sport 2 _USEETV",Fox Sport 2 _USEE
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/chunklist.m3u8?id=foxsport2&bandwidth=b684100&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png?v=2.0.0.13" group-title="SPORTS WAK"  tvg-id="Riyan.c51ce410c124a10e0db5e4b97fc2af39.Coday" tvg-name"[CODAY] Fox Sport 3 _USEETV",Fox Sport 3 _USEE
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/chunklist.m3u8?id=foxsport3&bandwidth=b684100&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",EPL 1
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
