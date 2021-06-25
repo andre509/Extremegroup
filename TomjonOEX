@@ -3358,9 +3358,267 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
 
 
+#EXTINF:-1 tvg-id="" tvg-name="▬ Premier League & EFL ▬" tvg-logo="https://picon-13398.kxcdn.com/premierleagueefl.jpg" group-title="Live: Premier League & EFL",▬ Premier League & EFL ▬
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/16510
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 1 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 1 TH
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/16956
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 2 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 2 TH
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/16957
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 3 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 3 TH
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/16958
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 4 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 4 TH
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/16959
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football HD 5 TH" tvg-logo="https://picon-13398.kxcdn.com/truepremierefootball5th.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 5 TH
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/27936
+#EXTINF:-1 tvg-id="" tvg-name="EPL 1" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 1
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/19032
+#EXTINF:-1 tvg-id="" tvg-name="EPL 2" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 2
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/19033
+#EXTINF:-1 tvg-id="" tvg-name="EPL 3" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 3
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/19034
+#EXTINF:-1 tvg-id="" tvg-name="EPL 4" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 4
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/19035
+#EXTINF:-1 tvg-id="" tvg-name="EPL 5" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 5
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/19036
+#EXTINF:-1 tvg-id="" tvg-name="EPL 6" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 6
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/19037
+#EXTINF:-1 tvg-id="" tvg-name="EPL 7" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 7
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/19089
+#EXTINF:-1 tvg-id="" tvg-name="EPL 8" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 8
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/19090
+#EXTINF:-1 tvg-id="" tvg-name="EPL 9" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 9
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/28167
+#EXTINF:-1 tvg-id="" tvg-name="EPL 10" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 10
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/28168
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 1 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 1 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23925
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 10 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 10 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23916
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 11 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 11 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23915
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 12 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 12 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23914
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 13 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 13 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23913
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 14 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 14 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23912
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 15 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 15 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23911
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 16 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 16 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23910
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 17 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 17 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23909
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 18 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 18 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23908
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 19 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 19 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23907
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 2 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 2 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23924
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 20 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 20 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23906
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 3 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 3 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23923
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 4 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 4 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23922
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 5 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 5 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23921
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 6 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 6 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23920
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 7 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 7 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23919
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 8 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 8 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23918
+#EXTINF:-1 tvg-id="" tvg-name="iFollow 9 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 9 UK
+http://clientportal.link:80/xi3kUmFgxP2799/wdZD827859/23917
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="LiveSport 1" tvg-logo="" group-title="SPORT",LiveSport 1
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/106
+#EXTINF:-1 tvg-id="" tvg-name="LiveSport 2" tvg-logo="" group-title="SPORT",LiveSport 2
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/107
+#EXTINF:-1 tvg-id="ArenaSport1hr" tvg-name="Arena Sport 1 HD (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1.png" group-title="SPORT",Arena Sport 1 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/1
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2.png" group-title="SPORT",Arena Sport 2 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/2
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3.png" group-title="SPORT",Arena Sport 3 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/3
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4.png" group-title="SPORT",Arena Sport 4 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HD (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5.png" group-title="SPORT",Arena Sport 5 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/20
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6 HD (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/arena6_logo.png" group-title="SPORT",Arena Sport 6 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/31
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HD (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1.png" group-title="SPORT",Arena Sport 1 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/22
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2.png" group-title="SPORT",Arena Sport 2 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/23
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3.png" group-title="SPORT",Arena Sport 3 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/24
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/logo_arena4.png" group-title="SPORT",Arena Sport 4 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/78
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HD (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/logo_arena5.png" group-title="SPORT",Arena Sport 5 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/79
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HD (BiH)" tvg-logo="" group-title="SPORT",Arena Sport 1 HD (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/342
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD" tvg-logo="https://tvprofil.com/img/kanali-logo/sk_hd.png" group-title="SPORT",Sport Klub HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/sk_1.png" group-title="SPORT",Sport Klub 1 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/4
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_2.png" group-title="SPORT",Sport Klub 2 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/159
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/sk_3.png" group-title="SPORT",Sport Klub 3 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/6
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4" tvg-logo="https://tvprofil.com/img/kanali-logo/sk_4.png" group-title="SPORT",Sport Klub 4
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/9
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5" tvg-logo="https://tvprofil.com/img/kanali-logo/sk_5.png" group-title="SPORT",Sport Klub 5
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/10
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6" tvg-logo="https://tvprofil.com/img/kanali-logo/sk_6.png" group-title="SPORT",Sport Klub 6
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/11
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 7" tvg-logo="https://tvprofil.com/img/kanali-logo/sk_7.png" group-title="SPORT",Sport Klub 7
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/101
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 8" tvg-logo="https://tvprofil.com/img/kanali-logo/sk_8.png" group-title="SPORT",Sport Klub 8
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/102
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 9 " tvg-logo="https://tvprofil.com/img/kanali-logo/sk_9.png" group-title="SPORT",Sport Klub 9 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/103
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 10" tvg-logo="https://tvprofil.com/img/kanali-logo/sk_10.png" group-title="SPORT",Sport Klub 10
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/104
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Start (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_hd.png" group-title="SPORT",Sport Klub Start (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/108
+#EXTINF:-1 tvg-id="" tvg-name="Planet Sport 1 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/planetsport_1.png" group-title="SPORT",Planet Sport 1 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/14
+#EXTINF:-1 tvg-id="" tvg-name="Planet Sport 2 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/planetsport_2.png" group-title="SPORT",Planet Sport 2 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/15
+#EXTINF:-1 tvg-id="" tvg-name="Planet Sport 3 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/planetsport_3.png" group-title="SPORT",Planet Sport 3 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/80
+#EXTINF:-1 tvg-id="" tvg-name="Planet Sport 4 HD " tvg-logo="https://tvprofil.com/img/kanali-logo/planetsport_4.png" group-title="SPORT",Planet Sport 4 HD 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/81
+#EXTINF:-1 tvg-id="" tvg-name="Planet Sport 5 HD " tvg-logo="https://tvprofil.com/img/kanali-logo/planetsport_5.png" group-title="SPORT",Planet Sport 5 HD 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/82
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1 HD (RO)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Digi_sport1.png" group-title="SPORT",Digi Sport 1 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/12
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2 HD (RO)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Digi_sport2.png" group-title="SPORT",Digi Sport 2 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/18
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 3 HD (RO)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Digi_sport3a.png" group-title="SPORT",Digi Sport 3 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/19
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 4 HD (RO)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/DigiSport-SK-4.jpg" group-title="SPORT",Digi Sport 4 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/21
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2015_logo.png" group-title="SPORT",EuroSport 1 (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/26
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="SPORT",EuroSport 2 (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/27
+#EXTINF:-1 tvg-id="" tvg-name="HRT 1 HD (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/htv1-logo.png" group-title="SPORT",HRT 1 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/29
+#EXTINF:-1 tvg-id="" tvg-name="HRT 2 HD (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/htv2-logo.png" group-title="SPORT",HRT 2 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/30
+#EXTINF:-1 tvg-id="" tvg-name="RTL (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/RTL.png" group-title="SPORT",RTL (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/35
+#EXTINF:-1 tvg-id="" tvg-name="NOVA HD (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/NovaTV_logo_2019.png" group-title="SPORT",NOVA HD (HR)
+http://84.22.107.232:8081/Cor-Net/Nova-HR-HD/mpeg.2ts
+#EXTINF:-1 tvg-id="" tvg-name="DOMA TV (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/doma.png" group-title="SPORT",DOMA TV (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/105
+#EXTINF:-1 tvg-id="" tvg-name="Sportska TV (HR)" tvg-logo="" group-title="SPORT",Sportska TV (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/72
+#EXTINF:-1 tvg-id="" tvg-name="HNTV (HR)" tvg-logo="" group-title="SPORT",HNTV (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/17
+#EXTINF:-1 tvg-id="" tvg-name="Fight Channel (HR)" tvg-logo="https://tvprofil.com/img/kanali-logo/fight-channel-logo.png" group-title="SPORT",Fight Channel (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/47
+#EXTINF:-1 tvg-id="" tvg-name="BHT 1 (BiH)" tvg-logo="https://tvprofil.com/img/kanali-logo/bht1.jpg" group-title="SPORT",BHT 1 (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/65
+#EXTINF:-1 tvg-id="" tvg-name="NOVA (BiH)" tvg-logo="https://www.hteronet.ba/storage/upload/novosti/logo_bh_inv_152053_125435.png" group-title="SPORT",NOVA (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/74
+#EXTINF:-1 tvg-id="" tvg-name="NOVA Sport (BiH)" tvg-logo="https://tvprofil.com/img/kanali-logo/nova_sport.png" group-title="SPORT",NOVA Sport (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/83
+#EXTINF:-1 tvg-id="" tvg-name="RTS 1 (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS1_logo.png" group-title="SPORT",RTS 1 (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/40
+#EXTINF:-1 tvg-id="" tvg-name="RTS 2 (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS2_logo.png" group-title="SPORT",RTS 2 (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/41
+#EXTINF:-1 tvg-id="" tvg-name="NOVA TV (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/novaslogo.png" group-title="SPORT",NOVA TV (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/71
+#EXTINF:-1 tvg-id="" tvg-name="●●●●●●●●●● GERMANY / DE ●●●●●●●●●●" tvg-logo="" group-title="OZNAKE",●●●●●●●●●● GERMANY / DE ●●●●●●●●●●
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/344
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport News HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="SPORT",Sky Sport News HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/132
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 Bar HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="SPORT",DAZN 1 Bar HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/76
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 Bar HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="SPORT",DAZN 2 Bar HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/77
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Sky_Sport_Austria_HD_Logo_2016.png" group-title="SPORT",Sky Sport Austria HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/131
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1 HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Sky_Sport_Austria_HD_Logo_2016.png" group-title="SPORT",Sky Sport Austria 1 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/349
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 2 HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Sky_Sport_Austria_HD_Logo_2016.png" group-title="SPORT",Sky Sport Austria 2 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/350
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 3 HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Sky_Sport_Austria_HD_Logo_2016.png" group-title="SPORT",Sky Sport Austria 3 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/351
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 4 HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Sky_Sport_Austria_HD_Logo_2016.png" group-title="SPORT",Sky Sport Austria 4 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/352
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 HD (DE)" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_1.png" group-title="SPORT",Sky Sport 1 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/133
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_2.png" group-title="SPORT",Sky Sport 2 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/134
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_3.png" group-title="SPORT",Sky Sport 3 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/135
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_4.png" group-title="SPORT",Sky Sport 4 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/136
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_5.png" group-title="SPORT",Sky Sport 5 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/137
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_6.png" group-title="SPORT",Sky Sport 6 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/138
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_7.png" group-title="SPORT",Sky Sport 7 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/139
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8 HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_8.png" group-title="SPORT",Sky Sport 8 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/140
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 Bundesliga HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_bundesliga_1.png" group-title="SPORT",Sky Sport 1 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/141
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 Bundesliga HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_bundesliga_2.png" group-title="SPORT",Sky Sport 2 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/142
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 Bundesliga HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_bundesliga_3.png" group-title="SPORT",Sky Sport 3 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/143
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 Bundesliga HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_bundesliga_4.png" group-title="SPORT",Sky Sport 4 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/144
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 Bundesliga HD (DE) • ONLY ON WEEKENDS •  " tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_bundesliga_5.png" group-title="SPORT",Sky Sport 5 Bundesliga HD (DE) • ONLY ON WEEKENDS •  
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/145
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 Bundesliga HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_bundesliga_6.png" group-title="SPORT",Sky Sport 6 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/146
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 Bundesliga HD (DE) • ONLY ON WEEKENDS • " tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_bundesliga_7.png" group-title="SPORT",Sky Sport 7 Bundesliga HD (DE) • ONLY ON WEEKENDS • 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/147
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8 Bundesliga HD (DE) • ONLY ON WEEKENDS • " tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_bundesliga_8.png" group-title="SPORT",Sky Sport 8 Bundesliga HD (DE) • ONLY ON WEEKENDS • 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/148
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 9 Bundesliga HD (DE) • ONLY ON WEEKENDS •  " tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_bundesliga_9.png" group-title="SPORT",Sky Sport 9 Bundesliga HD (DE) • ONLY ON WEEKENDS •  
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/149
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport X Bundesliga HD (DE) • ONLY ON WEEKENDS •" tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_bundesliga_10.png" group-title="SPORT",Sky Sport X Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/150
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 XTRA HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png" group-title="SPORT",EuroSport 2 XTRA HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/28
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD (TR)" tvg-logo="" group-title="SPORT",TRT 1 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/353
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR FHD (TR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/TRT_Spor_HD_kurumsal_logo.png" group-title="SPORT",TRT SPOR FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/112
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 1 FHD (TR)" tvg-logo="https://w1.pngwing.com/pngs/581/739/png-transparent-champions-league-logo-uefa-europa-league-europe-tivibu-spor-football-television-sports-uefa-champions-league.png" group-title="SPORT",Tivibu Spor 1 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/109
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 2 FHD (TR)" tvg-logo="https://banner2.cleanpng.com/20181115/zg/kisspng-uefa-europa-league-europe-tivibu-spor-logo-tivibu-spor-5bee451281e8f3.1731588115423419065321.jpg" group-title="SPORT",Tivibu Spor 2 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/110
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 3 (TR)" tvg-logo="https://e7.pngegg.com/pngimages/483/288/png-clipart-galatasaray-s-k-tivibu-spor-sport-high-definition-television-am-logo-television-text-thumbnail.png" group-title="SPORT",Tivibu Spor 3 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/111
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 FHD (TR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORT",Bein Sports 1 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/73
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 (TR)" tvg-logo="https://tvprofil.com/img/kanali-logo/bein_sports_2.png" group-title="SPORT",Bein Sport 2 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/64
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 FHD (TR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="SPORT",Bein Sports 3 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/86
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4 (TR)" tvg-logo="" group-title="SPORT",Bein Sport 4 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/87
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6 (TR)" tvg-logo="" group-title="SPORT",Bein Sport 6 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/89
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5 (TR)" tvg-logo="" group-title="SPORT",Bein Sport 5 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/88
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7 (TR)" tvg-logo="" group-title="SPORT",Bein Sport 7 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/90
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 8 (TR)" tvg-logo="" group-title="SPORT",Bein Sport 8 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/91
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 9 (TR)" tvg-logo="" group-title="SPORT",Bein Sport 9 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/92
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 10 (TR)" tvg-logo="" group-title="SPORT",Bein Sport 10 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/93
 
 #EXTINF:0 tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SPORTS",AR: beIN SPORTS XTRA 1 HD
 http://qqtv.nl:8080/9513/9513/315504
