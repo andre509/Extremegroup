@@ -710,14 +710,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Lokal Wak",ANTV 1
 http://103.140.90.211:19420/Dyos/live/ANTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" tvg-id="RIYAN.fa162703d9d267b0195c8b58eb14bd9c.SHINTA" tvg-name" RCTI _VIDIO" group-title="Lokal Wak",MNCTV _+
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" tvg-id="RIYAN.474eeef97fc719487e0d2427b2ed63bd.SHINTA" tvg-name" GTV _VIDIO" group-title="Lokal Wak",GTV _+
-https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Trans TV" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Lokal Wak",Trans TV
+#EXTINF:-1 tvg-ID="" tvg-name="Trans TV" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Lokal Wak",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Trans 7" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Lokal Wak",Trans 7
+#EXTINF:-1 tvg-ID="" tvg-name="Trans 7" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Lokal Wak",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Lokal Wak",GALAXY
@@ -745,6 +741,7 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Indosiar" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Lokal Wak",Indosiar
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="RCTI HD" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Lokal Wak",RCTI 
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
@@ -3250,7 +3247,8 @@ http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14675
 
 
 
-
+#EXTINF:-1tvg-logo="https://i.postimg.cc/2jxcKrjD/mola.png" group-title="SPORTS WAKt",Mola TV FREE
+http://gpc.my.id/vidio/mola-tv-free.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="SPORTS WAK", ChampionTV 1 (Vidio) 
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="SPORTS WAK", ChampionTV 2 (Vidio)
@@ -3264,7 +3262,8 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
-
+NBCSN
+http://31.220.41.87:8081/live/nbcsn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASTRO ARENA
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 http://starshare.live:8080/live/120120/120120/5479.ts
@@ -3276,7 +3275,8 @@ http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",ASSP4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Astro Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASSP 1
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
@@ -3295,6 +3295,14 @@ http://93.157.62.180/Supersport1/index.m3u8
 http://93.157.62.180/Supersport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Super Sport 3
 http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",J SPORTS 1
+http://redlabmcdn.s.llnwi.net/jp01/bs15/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",J SPORTS 2
+http://redlabmcdn.s.llnwi.net/jp01/bs11/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",J SPORTS 3
+http://redlabmcdn.s.llnwi.net/jp01/bs12/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",J SPORTS 4
+http://redlabmcdn.s.llnwi.net/jp01/cs02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",ADU AYAM 
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8 
@@ -3589,8 +3597,6 @@ http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/40
 http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/41
 #EXTINF:-1 tvg-id="" tvg-name="NOVA TV (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/novaslogo.png" group-title="SPORT",NOVA TV (SR)
 http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/71
-#EXTINF:-1 tvg-id="" tvg-name="●●●●●●●●●● GERMANY / DE ●●●●●●●●●●" tvg-logo="" group-title="OZNAKE",●●●●●●●●●● GERMANY / DE ●●●●●●●●●●
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/344
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport News HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="SPORT",Sky Sport News HD (DE)
 http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/132
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 Bar HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="SPORT",DAZN 1 Bar HD (DE)
