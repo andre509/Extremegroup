@@ -45,6 +45,32 @@ https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",PPTV HD
 http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 1 HD" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="3PM/Foreign Sports",USA: TSN 1 HD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/53089.m3u8
+#EXTINF:-1 tvg-ID="tsn2.ca" tvg-name="USA: TSN 2 HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51IKTjuT1SL._SL500_AA300_.png" group-title="3PM/Foreign Sports",USA: TSN 2 HD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/39178.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 2 SD" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="3PM/Foreign Sports",USA: TSN 2 SD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/130667.m3u8
+#EXTINF:-1 tvg-ID="tsn3.ca" tvg-name="USA: TSN 3 HD" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" group-title="3PM/Foreign Sports",USA: TSN 3 HD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/39179.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 3 SD" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="3PM/Foreign Sports",USA: TSN 3 SD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/130668.m3u8
+#EXTINF:-1 tvg-ID="tsn4.ca" tvg-name="USA: TSN 4 HD" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" group-title="3PM/Foreign Sports",USA: TSN 4 HD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/39180.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 4 SD" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="3PM/Foreign Sports",USA: TSN 4 SD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/130669.m3u8
+#EXTINF:-1 tvg-ID="tsn5.ca" tvg-name="USA: TSN 5 HD" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" group-title="3PM/Foreign Sports",USA: TSN 5 HD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/39181.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 5 SD" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="3PM/Foreign Sports",USA: TSN 5 SD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/130670.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 1 FHD" tvg-logo="https://www.zerodensity.tv/wp-content/uploads/2018/06/rmc-sport-reality-engine-zero-density-1.jpg" group-title="3PM/Foreign Sports",RMC SPORT 1 FHD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/114767.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 2 FHD" tvg-logo="https://www.zerodensity.tv/wp-content/uploads/2018/06/rmc-sport-reality-engine-zero-density-1.jpg" group-title="3PM/Foreign Sports",RMC SPORT 2 FHD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/114768.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 3 FHD" tvg-logo="https://www.zerodensity.tv/wp-content/uploads/2018/06/rmc-sport-reality-engine-zero-density-1.jpg" group-title="3PM/Foreign Sports",RMC SPORT 3 FHD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/114769.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 4 FHD" tvg-logo="https://www.zerodensity.tv/wp-content/uploads/2018/06/rmc-sport-reality-engine-zero-density-1.jpg" group-title="3PM/Foreign Sports",RMC SPORT 4 FHD
+http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/114770.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CTV",HLS Stream 1
