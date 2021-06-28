@@ -3247,7 +3247,7 @@ http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14675
 
 
 
-#EXTINF:-1tvg-logo="https://i.postimg.cc/2jxcKrjD/mola.png" group-title="SPORTS WAK",Mola TV FREE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jxcKrjD/mola.png" group-title="SPORTS WAK",Mola TV FREE
 http://gpc.my.id/vidio/mola-tv-free.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="SPORTS WAK", ChampionTV 1 (Vidio) 
 http://gpc.my.id/vidio/champion-tv-1.m3u8
