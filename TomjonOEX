@@ -8,6 +8,28 @@ http://qqtv.nl:8080/9513/9513/322446
 #EXTINF:-1 tvg-id="NULL" tvg-name="|RU| COVID-19 INFORMATION" tvg-logo="http://tv.iptvboss.net/ch_logo/covid.png" group-title="INFO COVID",Covid-19
 http://portal.alliptv.tv:8080/530354021348/397532457292/5497
 
+#EXTINF:-1  tvg-logo="https://mobileapkworld.com/wp-content/uploads/2017/03/sports.livetv2.png" group-title="AFC CUP",  AFC Cup 1
+http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://mobileapkworld.com/wp-content/uploads/2017/03/sports.livetv2.png" group-title="AFC CUP", AFC Cup 2
+http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://mobileapkworld.com/wp-content/uploads/2017/03/sports.livetv2.png" group-title="AFC CUP", AFC Cup 3
+http://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://mobileapkworld.com/wp-content/uploads/2017/03/sports.livetv2.png" group-title="AFC CUP", AFC Cup 4
+http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://mobileapkworld.com/wp-content/uploads/2017/03/sports.livetv2.png" group-title="AFC CUP", AFC Cup 5
+http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://mobileapkworld.com/wp-content/uploads/2017/03/sports.livetv2.png" group-title="AFC CUP", AFC Cup 6
+http://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://mobileapkworld.com/wp-content/uploads/2017/03/sports.livetv2.png" group-title="AFC CUP", AFC Cup 7
+http://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://mobileapkworld.com/wp-content/uploads/2017/03/sports.livetv2.png" group-title="AFC CUP", AFC Cup 8
+http://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://mobileapkworld.com/wp-content/uploads/2017/03/sports.livetv2.png" group-title="AFC CUP", AFC Cup 9
+http://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://mobileapkworld.com/wp-content/uploads/2017/03/sports.livetv2.png" group-title="AFC CUP", AFC Cup 10
+http://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",SPORT 5 
 https://95-213-224-183.livesports24.online/belarusss5.m3u8
